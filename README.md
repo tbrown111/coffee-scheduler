@@ -30,7 +30,7 @@ These are the steps to run this program:
 3. write 'python <filename.py>' and hit enter
 4. A GUI will appear with instructions on how to use the program
 5. In the GUI, fill out the fields and click 'Add Person'. Add as many people as you want.
-6. Next, adjust the schdule length if you want. The defualt length is 100 days.
+6. Next, adjust the schdule length if you want. The default length is 100 days.
 7. Finally, click 'Generate Payment Schedule' and the schedule will apear in the text box.
 
 ## Algoirthm
