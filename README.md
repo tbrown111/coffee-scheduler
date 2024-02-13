@@ -14,7 +14,7 @@ The text box displays error messages to help guide the user to use the program c
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Algoirthm](#algorithm)
+- [Algorithm](#algorithm)
 - [Credits](#credits)
 
 ## Installation
@@ -33,7 +33,7 @@ These are the steps to run this program:
 6. Next, adjust the schdule length if you want. The default length is 100 days.
 7. Finally, click 'Generate Payment Schedule' and the schedule will appear in the text box.
 
-## Algoirthm
+## Algorithm
 
 In order to be fair to everyone, a person should pay the same amount in the group's bills
 over time as they would on themself. To accomplish this, each person has an 'Amount Paid'
